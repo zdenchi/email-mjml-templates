@@ -1,0 +1,12 @@
+<mj-section>
+  <mj-group>
+    <mj-column vertical-align="middle" width="20%">
+      <mj-image width="42px" height="42px" padding="0" align="right" src="https://telegram.org/img/t_logo.png" href="https://t.me/CHANNEL_NAME" />
+    </mj-column>
+    <mj-column vertical-align="middle" width="80%">
+      <mj-text padding="0 20px" font-family="Trebuchet MS">
+        <span>Follow the news in our <a href="https://t.me/CHANNEL_NAME" style="text-decoration: none; font-weight: bold; color: #4381f4">telegram channel</a>.<br /> Subscribe and stay up to date with current news and events.</span>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>

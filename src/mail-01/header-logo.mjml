@@ -1,0 +1,5 @@
+<mj-section full-width="full-width" background-color="#36383e">
+  <mj-column>
+    <mj-image width="128px" height="128px" src="../logo.png" alt="Site Logo" href="https://example.com" />
+  </mj-column>
+</mj-section>

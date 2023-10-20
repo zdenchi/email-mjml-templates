@@ -1,0 +1,11 @@
+<mj-section full-width="full-width" background-color="#36383e">
+  <mj-column>
+    <mj-navbar base-url="https://example.com" ico-color="#ffffff">
+      <mj-navbar-link href="/nav-item-1" color="#ffffff">Home</mj-navbar-link>
+      <mj-navbar-link href="/nav-item-2" color="#ffffff">Shop</mj-navbar-link>
+      <mj-navbar-link href="/nav-item-3" color="#ffffff">Favorite</mj-navbar-link>
+      <mj-navbar-link href="/nav-item-4" color="#ffffff">Features</mj-navbar-link>
+      <mj-navbar-link href="/nav-item-5" color="#ffffff">About</mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>

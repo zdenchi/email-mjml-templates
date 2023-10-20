@@ -1,0 +1,5 @@
+<mj-section padding="30px 0px">
+  <mj-column>
+    <mj-text align="center" color="#c7c7c7">If you do not wish to receive emails from us, please click <a href="https://example.com/unsubscribe" style="font-weight: bold; color: #eeeeee">here</a> to unsubscribe.</mj-text>
+  </mj-column>
+</mj-section>

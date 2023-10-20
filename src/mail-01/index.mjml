@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-preview>PREVIEW OF THE LETTER &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; </mj-preview>
+    <mj-include path="./head.mjml" />
+  </mj-head>
+  <mj-body background-color="#fcfcfc">
+    <mj-include path="./header-logo.mjml" />
+    <mj-section padding-bottom="0" padding-left="5%">
+      <mj-column>
+        <mj-text padding="0 10px" align="center" font-size="16px" font-weight="700">Hello World!</mj-text>
+        <mj-text align="justify" font-size="14px" font-weight="600">Header</mj-text>
+        <mj-text align="justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam asperiores <a href="https://example.com" style="text-decoration: none; font-weight: bold; color: #4381f4">consequatur fuga</a> doloremque debitis illo adipisci consequuntur totam aspernatur dicta ex <b>illum facilis eaque</b> quidem, culpa libero saepe nobis laudantium?</mj-text>
+        <mj-text align="justify">
+          <ol>
+            <li>Lorem, ipsum dolor sit amet</li>
+            <li>Lorem, ipsum dolor</li>
+            <li>Dolor sit amet</li>
+          </ol>
+        </mj-text>
+        <mj-text align="justify" font-size="14px" font-weight="600">Header</mj-text>
+        <mj-text align="justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nostrum nesciunt nihil rerum, odio officiis totam repudiandae ratione velit facere quam dolorum, quod praesentium minus similique impedit error molestiae. Dolores!</mj-text>
+        <mj-text align="justify">
+          <ul>
+            <li>Lorem, ipsum dolor sit amet</li>
+            <li>Lorem, ipsum dolor</li>
+            <li>Dolor sit amet</li>
+          </ul>
+        </mj-text>
+        <mj-divider />
+      </mj-column>
+    </mj-section>
+    <mj-include path="./footer.mjml" />
+    <mj-include path="./navbar.mjml" />
+  </mj-body>
+</mjml>

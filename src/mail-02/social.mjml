@@ -1,0 +1,10 @@
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-social icon-size="32px" mode="horizontal">
+      <mj-social-element alt="telegram" href="https://t.me/example" src="https://api.iconify.design/logos:telegram.svg"></mj-social-element>
+      <mj-social-element alt="instagram" href="https://instagram.com/example" src="https://api.iconify.design/skill-icons:instagram.svg"></mj-social-element>
+      <mj-social-element alt="youtube" href="https://youtube.com/example" src="https://api.iconify.design/logos:youtube-icon.svg"></mj-social-element>
+      <mj-social-element alt="facebook" href="https://facebook.com/example" src="https://api.iconify.design/logos:facebook.svg"></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>

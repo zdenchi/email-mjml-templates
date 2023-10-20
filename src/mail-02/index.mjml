@@ -1,0 +1,35 @@
+<mjml>
+  <mj-include path="./head.mjml" />
+  <mj-body css-class="bg">
+    <mj-include path="./logo.mjml" />
+    <mj-wrapper css-class="b-radius" padding="0" background-color="#fff" border-radius="8px">
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-weight="500" font-size="18px" color="#444">Hello World!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text font-size="16px" color="#444">To complete the registration, you need to confirm your email. To do this, enter the token below on the website or click the "Confirm" button.</mj-text>
+          <mj-text align="center" color="#000" font-size="22px" font-family="open Sans Helvetica, Arial, sans-serif" font-weight="600">TOKEN-0123456</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-button background-color="#fcc200" color="black" font-weight="500" text-transform="uppercase" border-radius="8px" href="https://example.com/click-here"> Confirm </mj-button>
+          <mj-text align="center" font-size="11px" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">Or copy this address to your browser and follow the link:<br></br><a href="https://example.com/click-here">https://example.com/click-here</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-include path="./navbar.mjml" />
+    <mj-section css-class="b-radius" background-color="#fff" border-radius="8px" padding="5px">
+      <mj-column width="100%">
+        <mj-text align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit.</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" color="#777">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam veritatis tempore accusantium, nihil non, cumque quidem vel commodi voluptatibus architecto eligendi blanditiis aperiam. Pariatur quidem quae sint earum modi.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./subscription.mjml" />
+  </mj-body>
+</mjml>
